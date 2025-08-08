@@ -1,0 +1,8 @@
+Comandos Git
+1 - git push --set-upstream origin master (Primeiro commit)
+2 - git status (Verificar alterações)
+3 - git add <arquivo> (para adicionar ou passar o nome do arquivo antes do commit)
+4 - git commit -m "Comentário"
+5 - git push 
+6 - git add --all (adiciona todos os arquivos no stage)
+7 - git restore --staged <file> (remove do stage)
